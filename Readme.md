@@ -18,3 +18,4 @@ I am currently focusing on my problem solving skills.<br>learning Kotlin.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=syashu16&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=syashu16&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
