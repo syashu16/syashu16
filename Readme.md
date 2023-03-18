@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently focusing on my problem solving skills.<br>learning Kotlin.
+I am currently focusing on my problem solving skills.<br>learning Problem Solving Skills.
 
 
 # 💻 Tech Stack:
