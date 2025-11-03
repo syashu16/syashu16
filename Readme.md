@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🏆 **Published 3 Scopus-Indexed Research Papers** (incl. IEEE Blockchain Paper)
+- 🏆 **Published 4 Scopus-Indexed Research Papers** (incl. IEEE Blockchain Paper)
 - 🧑‍🔬 **Research Intern @ IIT Patna:** Built ML applications for real-world impact
 - 💻 **5⭐ Coder on HackerRank** (Python & SQL) | 250+ DSA problems solved
 - 🌐 **Open Source Contributor:** Hacktoberfest 2022/2023
